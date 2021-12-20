@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/Hamrusy) 
+[Profile views](https://gpvc.arturio.dev/Hamrusy) 
 ### Привет 👋, Мое имя Руслан Ульянов
 #### И я являюсь Hamrusy
 

@@ -1,16 +1,16 @@
-### Hi there 👋
+### Привет 👋, Мое имя Руслан Ульянов
+#### И я являюсь Hamrusy
 
-<!--
-**Hamrusy/hamrusy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я работаю с: JAVA / PYTHON / C# / VUE JS / REACT / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 Над чем я работаю в данный момент вы можете увидеть в моем профиле
+- 👯 Я хочу работать с...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hamrusy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/xvare.music)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamrusy)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamrusy&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Hamrusy)  

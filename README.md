@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/Hamrusy) 
-<h2></h2>
 ### Привет 👋
+##
 Я работаю с: JAVA / PYTHON / C# / VUE JS / REACT / JS / HTML / CSS
 
 

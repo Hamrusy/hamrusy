@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/Hamrusy) 
-### Привет 👋, Мое имя Руслан Ульянов 
-
+### Привет 👋
+<h2></h2>
 Я работаю с: JAVA / PYTHON / C# / VUE JS / REACT / JS / HTML / CSS
 
 
